@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sonaaustin
 - 👀 I’m interested in building robots
-- 🌱 I’m currently learning Robotics engineering 8
+- 🌱 I’m currently learning Robotics engineering 
 - 💞️ I’m looking to collaborate on robot based researches
-- 📫 How to reach me 
+- 📫 How to reach me in Sona A linkeln account 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
